@@ -49,8 +49,17 @@ h2.ny {
 }
 
 a.nav {
-  text-align: left;
   font-size: 18px;
   font-family: Helvetica;
   color: white;
+}
+
+.copyright {
+  font-size: 11px;
+  font-family: Helvetica;
+  text-align: left;
+}
+
+#Footer {
+  background-color: dimgray;
 }
